@@ -8,6 +8,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,5 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
