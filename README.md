@@ -6,6 +6,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -73,6 +74,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
