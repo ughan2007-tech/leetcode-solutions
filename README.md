@@ -12,6 +12,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -24,6 +25,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,10 +38,12 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0003-longest-substring-without-repeating-characters](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
