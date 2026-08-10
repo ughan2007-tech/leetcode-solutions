@@ -6,6 +6,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -66,6 +67,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -141,4 +143,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
