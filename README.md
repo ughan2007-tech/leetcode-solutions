@@ -6,6 +6,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -19,6 +20,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
