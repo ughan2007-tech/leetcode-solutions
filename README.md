@@ -30,6 +30,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
