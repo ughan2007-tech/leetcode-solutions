@@ -164,4 +164,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
