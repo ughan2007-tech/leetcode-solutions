@@ -70,6 +70,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Math
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -128,6 +129,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
 ## Stack
 |  |
 | ------- |
