@@ -148,6 +148,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -167,5 +168,22 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
