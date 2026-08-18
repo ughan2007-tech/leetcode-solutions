@@ -47,6 +47,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -103,6 +105,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -112,6 +115,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Pigeonhole Principle
 |  |
