@@ -13,6 +13,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -47,6 +49,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0003-longest-substring-without-repeating-characters](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -74,6 +77,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
@@ -98,6 +102,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -117,6 +122,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
