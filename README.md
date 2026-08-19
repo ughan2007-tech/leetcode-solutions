@@ -35,6 +35,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -82,6 +84,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
