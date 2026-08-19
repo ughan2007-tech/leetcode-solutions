@@ -180,14 +180,17 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -196,4 +199,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
