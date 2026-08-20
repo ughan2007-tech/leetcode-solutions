@@ -87,6 +87,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -232,4 +233,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
