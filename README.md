@@ -23,6 +23,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -58,6 +59,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -111,6 +113,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
