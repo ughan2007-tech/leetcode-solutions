@@ -155,6 +155,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
