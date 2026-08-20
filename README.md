@@ -94,6 +94,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0507-perfect-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -159,6 +160,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
