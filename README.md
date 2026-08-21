@@ -17,6 +17,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -40,6 +41,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0234-palindrome-linked-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
@@ -120,6 +122,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -211,6 +214,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -248,4 +252,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
