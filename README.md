@@ -93,6 +93,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0342-power-of-four) |
