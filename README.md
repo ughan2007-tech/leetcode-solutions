@@ -89,6 +89,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2485-find-the-pivot-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2485-find-the-pivot-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
