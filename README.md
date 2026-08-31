@@ -242,6 +242,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -251,6 +252,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -288,12 +290,14 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
