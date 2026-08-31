@@ -242,6 +242,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -249,6 +250,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -284,8 +286,10 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
