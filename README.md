@@ -120,6 +120,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -162,6 +163,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0137-single-number-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
