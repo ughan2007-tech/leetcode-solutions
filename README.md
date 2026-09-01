@@ -30,6 +30,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [1539-kth-missing-positive-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -94,6 +95,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Math
 |  |
