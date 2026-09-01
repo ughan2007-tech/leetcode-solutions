@@ -16,8 +16,8 @@ class Solution {
                 l++;
             }
              if (z <= k) {
-                int len = r - l + 1;
-                maxlen = Math.max(maxlen, len);
+                int len=r-l+1;
+                maxlen= Math.max(maxlen, len);
             }
             r++;
         }
