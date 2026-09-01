@@ -49,6 +49,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0203-remove-linked-list-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
