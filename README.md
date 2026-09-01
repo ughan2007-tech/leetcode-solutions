@@ -251,6 +251,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -262,6 +263,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -301,6 +303,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -309,6 +312,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
