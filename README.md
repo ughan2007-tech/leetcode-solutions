@@ -127,6 +127,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
