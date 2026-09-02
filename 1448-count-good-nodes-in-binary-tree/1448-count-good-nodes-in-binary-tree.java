@@ -23,7 +23,6 @@ class Solution {
         }
 
         int count=0;
-
         if(root.val>=maxSoFar){
             count=1;
         }
