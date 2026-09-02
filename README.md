@@ -22,6 +22,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -125,6 +126,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
