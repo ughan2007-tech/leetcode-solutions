@@ -58,6 +58,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -322,4 +323,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
