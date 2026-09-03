@@ -7,6 +7,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -337,4 +339,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
