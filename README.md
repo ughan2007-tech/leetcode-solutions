@@ -42,6 +42,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
@@ -155,6 +157,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -330,4 +333,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
