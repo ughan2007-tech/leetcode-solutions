@@ -81,6 +81,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2716-minimize-string-length](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -169,6 +170,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0844-backspace-string-compare](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2716-minimize-string-length](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2716-minimize-string-length) |
 ## Bit Manipulation
 |  |
 | ------- |
