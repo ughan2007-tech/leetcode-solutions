@@ -8,6 +8,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0001-two-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0001-two-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
