@@ -24,6 +24,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
@@ -161,6 +162,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0561-array-partition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -260,6 +262,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -362,4 +365,8 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
