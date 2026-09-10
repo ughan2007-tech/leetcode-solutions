@@ -115,6 +115,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0202-happy-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0390-elimination-game) |
@@ -132,6 +133,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0055-jump-game) |
+| [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -285,6 +287,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0104-maximum-depth-of-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -348,4 +351,12 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
