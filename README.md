@@ -20,6 +20,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -83,6 +84,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0290-word-pattern](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +166,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0268-missing-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0561-array-partition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
