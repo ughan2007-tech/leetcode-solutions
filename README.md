@@ -31,6 +31,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0746-min-cost-climbing-stairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -88,6 +89,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2716-minimize-string-length](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/2716-minimize-string-length) |
@@ -203,6 +205,7 @@ Automatically synced LeetCode solutions using LeetHub v2
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ughan2007-tech/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
